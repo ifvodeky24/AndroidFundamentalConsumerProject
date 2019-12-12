@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Catalogue Consumer</string>
+
+    <string name="genre">Jenis:</string>
+    <string name="release_date">Tanggal Rilis:</string>
+    <string name="description">Deskripsi:</string>
+    <string name="poster_picture">Gambar Poster</string>
+    <string name="_4_3">4.3</string>
+    <string name="trailer">Trailer:</string>
+    <string name="production_company">Perusahaan Produksi:</string>
+    <string name="tag">Tag:</string>
+    <string name="popularity">Popularitas:</string>
+    <string name="number_of_episode">Jumlah Episode:</string>
+    <string name="cast">Pemeran:</string>
+    <string name="cast_name">Nama Pemeran</string>
+    <string name="cast_image">Gambar Pemeran</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
